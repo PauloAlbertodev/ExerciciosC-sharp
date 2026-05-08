@@ -1,0 +1,15 @@
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\bin\Debug\net10.0\Ex04.exe
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\bin\Debug\net10.0\Ex04.deps.json
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\bin\Debug\net10.0\Ex04.runtimeconfig.json
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\bin\Debug\net10.0\Ex04.dll
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\bin\Debug\net10.0\Ex04.pdb
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\obj\Debug\net10.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\obj\Debug\net10.0\Ex04.AssemblyInfoInputs.cache
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\obj\Debug\net10.0\Ex04.AssemblyInfo.cs
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\obj\Debug\net10.0\Ex04.csproj.CoreCompileInputs.cache
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\obj\Debug\net10.0\Ex04.sourcelink.json
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\obj\Debug\net10.0\Ex04.dll
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\obj\Debug\net10.0\refint\Ex04.dll
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\obj\Debug\net10.0\Ex04.pdb
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\obj\Debug\net10.0\Ex04.genruntimeconfig.cache
+C:\CursoC#\Exercicios\ExerciciosC#\Ex04\obj\Debug\net10.0\ref\Ex04.dll

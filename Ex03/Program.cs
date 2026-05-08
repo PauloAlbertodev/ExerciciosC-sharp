@@ -6,10 +6,15 @@ class Program
 {     
     static void Main(string[] args)
     {
-        Console.WriteLine("digite uma palavra");
-        string texto = Console.ReadLine();
-        texto = texto.Trim();
-        texto.Length;
+        Console.WriteLine("Digite uma palavra");
+        string palavra = Console.ReadLine();
+
+        string ajustado = palavra.Trim();
+        int tamanho = ajustado.Length;
+
+        Console.WriteLine($"A palavra {ajustado}, possui {tamanho} caracteres.");
+        
+        
 
     }
 }

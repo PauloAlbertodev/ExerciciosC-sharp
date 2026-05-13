@@ -1,0 +1,15 @@
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\obj\Debug\net10.0\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\obj\Debug\net10.0\Ex06.AssemblyInfoInputs.cache
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\obj\Debug\net10.0\Ex06.AssemblyInfo.cs
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\obj\Debug\net10.0\Ex06.csproj.CoreCompileInputs.cache
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\obj\Debug\net10.0\Ex06.sourcelink.json
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\bin\Debug\net10.0\Ex06.exe
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\bin\Debug\net10.0\Ex06.deps.json
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\bin\Debug\net10.0\Ex06.runtimeconfig.json
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\bin\Debug\net10.0\Ex06.dll
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\bin\Debug\net10.0\Ex06.pdb
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\obj\Debug\net10.0\Ex06.dll
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\obj\Debug\net10.0\refint\Ex06.dll
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\obj\Debug\net10.0\Ex06.pdb
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\obj\Debug\net10.0\Ex06.genruntimeconfig.cache
+C:\CursoC#\Exercicios\ExerciciosC#\Ex06\obj\Debug\net10.0\ref\Ex06.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CursoC#\\Exercicios\\ExerciciosC#\\Ex14\\Ex14.csproj": {}
+    "C:\\CursoC#\\exercicios\\exerciciosc#\\ex14\\Ex14.csproj": {}
   },
   "projects": {
-    "c:\\CursoC#\\Exercicios\\ExerciciosC#\\Ex14\\Ex14.csproj": {
+    "C:\\CursoC#\\exercicios\\exerciciosc#\\ex14\\Ex14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CursoC#\\Exercicios\\ExerciciosC#\\Ex14\\Ex14.csproj",
+        "projectUniqueName": "C:\\CursoC#\\exercicios\\exerciciosc#\\ex14\\Ex14.csproj",
         "projectName": "Ex14",
-        "projectPath": "c:\\CursoC#\\Exercicios\\ExerciciosC#\\Ex14\\Ex14.csproj",
+        "projectPath": "C:\\CursoC#\\exercicios\\exerciciosc#\\ex14\\Ex14.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "c:\\CursoC#\\Exercicios\\ExerciciosC#\\Ex14\\obj\\",
+        "outputPath": "C:\\CursoC#\\exercicios\\exerciciosc#\\ex14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"

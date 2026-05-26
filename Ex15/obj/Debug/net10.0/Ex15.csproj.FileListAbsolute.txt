@@ -1,0 +1,15 @@
+C:\CursoC#\exercicios\exerciciosc#\ex15\bin\Debug\net10.0\Ex15.exe
+C:\CursoC#\exercicios\exerciciosc#\ex15\bin\Debug\net10.0\Ex15.deps.json
+C:\CursoC#\exercicios\exerciciosc#\ex15\bin\Debug\net10.0\Ex15.runtimeconfig.json
+C:\CursoC#\exercicios\exerciciosc#\ex15\bin\Debug\net10.0\Ex15.dll
+C:\CursoC#\exercicios\exerciciosc#\ex15\bin\Debug\net10.0\Ex15.pdb
+C:\CursoC#\exercicios\exerciciosc#\ex15\obj\Debug\net10.0\Ex15.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\exercicios\exerciciosc#\ex15\obj\Debug\net10.0\Ex15.AssemblyInfoInputs.cache
+C:\CursoC#\exercicios\exerciciosc#\ex15\obj\Debug\net10.0\Ex15.AssemblyInfo.cs
+C:\CursoC#\exercicios\exerciciosc#\ex15\obj\Debug\net10.0\Ex15.csproj.CoreCompileInputs.cache
+C:\CursoC#\exercicios\exerciciosc#\ex15\obj\Debug\net10.0\Ex15.sourcelink.json
+C:\CursoC#\exercicios\exerciciosc#\ex15\obj\Debug\net10.0\Ex15.dll
+C:\CursoC#\exercicios\exerciciosc#\ex15\obj\Debug\net10.0\refint\Ex15.dll
+C:\CursoC#\exercicios\exerciciosc#\ex15\obj\Debug\net10.0\Ex15.pdb
+C:\CursoC#\exercicios\exerciciosc#\ex15\obj\Debug\net10.0\Ex15.genruntimeconfig.cache
+C:\CursoC#\exercicios\exerciciosc#\ex15\obj\Debug\net10.0\ref\Ex15.dll

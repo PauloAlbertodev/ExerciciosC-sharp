@@ -1,0 +1,15 @@
+C:\CursoC#\exercicios\exerciciosc#\ex26\bin\Debug\net10.0\Ex26.exe
+C:\CursoC#\exercicios\exerciciosc#\ex26\bin\Debug\net10.0\Ex26.deps.json
+C:\CursoC#\exercicios\exerciciosc#\ex26\bin\Debug\net10.0\Ex26.runtimeconfig.json
+C:\CursoC#\exercicios\exerciciosc#\ex26\bin\Debug\net10.0\Ex26.dll
+C:\CursoC#\exercicios\exerciciosc#\ex26\bin\Debug\net10.0\Ex26.pdb
+C:\CursoC#\exercicios\exerciciosc#\ex26\obj\Debug\net10.0\Ex26.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\exercicios\exerciciosc#\ex26\obj\Debug\net10.0\Ex26.AssemblyInfoInputs.cache
+C:\CursoC#\exercicios\exerciciosc#\ex26\obj\Debug\net10.0\Ex26.AssemblyInfo.cs
+C:\CursoC#\exercicios\exerciciosc#\ex26\obj\Debug\net10.0\Ex26.csproj.CoreCompileInputs.cache
+C:\CursoC#\exercicios\exerciciosc#\ex26\obj\Debug\net10.0\Ex26.sourcelink.json
+C:\CursoC#\exercicios\exerciciosc#\ex26\obj\Debug\net10.0\Ex26.dll
+C:\CursoC#\exercicios\exerciciosc#\ex26\obj\Debug\net10.0\refint\Ex26.dll
+C:\CursoC#\exercicios\exerciciosc#\ex26\obj\Debug\net10.0\Ex26.pdb
+C:\CursoC#\exercicios\exerciciosc#\ex26\obj\Debug\net10.0\Ex26.genruntimeconfig.cache
+C:\CursoC#\exercicios\exerciciosc#\ex26\obj\Debug\net10.0\ref\Ex26.dll
